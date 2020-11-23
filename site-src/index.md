@@ -34,17 +34,15 @@ Have you ever created a static website and wished people could just start using 
 * **You keep control over your design.** You can use any CSS framework and style your pages however you want.
 * **Server rendered, secure, and fast.** This makes it ideal for SEO and loading pages quickly. The front-end framework isn't even loaded if a user can't edit the current page.
 
+**Creating web applications is hard.** You need to install packages, configure your build process, create API endpoints, set up a database, and load in some demo data, *and that's all before even getting started!*
 
+But **it can be easier!**
 
 ### How it works
 
-**Creating web applications is hard.** You need to install packages, configure your build process, create API endpoints, set up a database, and load in some demo data, *and that's all before even getting started!*
-
-**It can be easier!**
-
 <img src="/static/remake-how-it-works.png">
 
-Remake makes it possible to build a web app entirely in your front-end code.
+Remake makes it possible to build a web app entirely in your front-end code. 
 
 It does this by basically converting your page into a database, so when you move elements around on the page, their data is also moved!
 
@@ -74,10 +72,8 @@ To see a fully-customized, production Remake application with image uploading, f
 
 ### Build Something Great
 
-Join in to learn how to:
+The Remake newsletter is an excellent way to learn recipes and tips for Remake. In no time, you'll **build something people will love**, and you'll do it incredibly quickly!
 
-* Build CRUD web apps incredibly quickly
-* Build something people love
 
 <div class="spacer--8"></div>
 
