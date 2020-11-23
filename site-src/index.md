@@ -30,7 +30,7 @@ Have you ever created a static website and wished people could just start using 
 
 * **Build full-stack apps with front-end code.** Remake comes with user accounts, a persistent database, and everything you need to deploy a working application.
 * **Add CMS-like features on top of static templates.** Users can login to your site and edit their own copy of it.
-* **It's so easy to use that feels like prototyping.** But it's designed for building scalable, production web apps.
+* **It's so easy to use that it feels like prototyping.** But it's designed for building scalable, production web apps.
 * **You keep control over your design.** You can use any CSS framework and style your pages however you want.
 * **Server rendered, secure, and fast.** This makes it ideal for SEO and loading pages quickly. The front-end framework isn't even loaded if a user can't edit the current page.
 
