@@ -3,9 +3,11 @@ layout: layout.hbs
 title: A Simple Example App
 ---
 
-## A Simple, Working Todo List App:
+Let's check how easy it is to **create a TODO app in Remake**, where you can create and update items on a TODO list.
 
-**This is a fully-functional application in Remake:**
+## A Simple, Working Todo List App
+
+The code below is all you need to create a **fully-functional TODO app in Remake:**
 
 <div class="line-numbers">
 {% raw %}
@@ -28,21 +30,27 @@ title: A Simple Example App
 
 <img class="image--small image--border" src="/static/todo-app.gif">
 
-⭐️ **Features:**
-* A user can sign up for an account to create their own todo list
-* A user can add new items to a list
-* A user can edit the text of each item
-* A user can remove each item
-* A user can reorder their todos by dragging them
-* A user can share thier todo list with a friend
-
 This is a real app. You can try it by [installing Remake](/install-and-setup), adding this code to your `app/pages/app-index.hbs` template, and opening `http://localhost:3000`!
+
+Really, this is all you need for a TODO app in Remake. But this app allows for more than just managing items in a list!
+
+### ⭐️ Features of the app
+Besides its code simplicity, what makes this TODO app so interesting is that it allows **managing list items per user**.
+
+With this app, each user can:
+
+* sign up for an account to create their own todo list
+* add new items to a list
+* edit the text of each item
+* remove each item in their list
+* reorder their todos by dragging them
+* share their todo list with a friend
 
 ### How is this possible?
 
-While most frameworks treat HTML as static, Remake treats HTML as the source of dynamic data, letting you add web app capabilities directly to an HTML template.
+This is possible because Remakes takes a different approach from the *status quo*, one that opens up a lot of possibilities!
 
-This is a different approach from the status quo, but opens up a lot of possibilities. 
+While most frameworks treat HTML as static, Remake treats HTML as the source of dynamic data, letting you add web app capabilities directly to an HTML template.
 
 <div class="spacer--16"></div>
 
