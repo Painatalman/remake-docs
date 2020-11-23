@@ -18,7 +18,7 @@ Remake lets you convert an HTML and CSS design into a fully-functional web app w
 * Inline editing & file uploads
 * No backend coding
 
-If you're a designers or front-end developer who wants to build web apps, Remake was made for you.
+If you're a designer or front-end developer who wants to build web apps, Remake was made for you.
 
 **UPDATE 🎉:** Remake v2.0 is out and the docs are up-to-date!
 
@@ -30,7 +30,7 @@ Have you ever created a static website and wished people could just start using 
 
 * **Build full-stack apps with front-end code.** Remake comes with user accounts, a persistent database, and everything you need to deploy a working application.
 * **Add CMS-like features on top of static templates.** Users can login to your site and edit their own copy of it.
-* **So easy to use it feels like prototyping.** But it's designed for building scalable, production web apps.
+* **It's so easy to use that feels like prototyping.** But it's designed for building scalable, production web apps.
 * **You keep control over your design.** You can use any CSS framework and style your pages however you want.
 * **Server rendered, secure, and fast.** This makes it ideal for SEO and loading pages quickly. The front-end framework isn't even loaded if a user can't edit the current page.
 
